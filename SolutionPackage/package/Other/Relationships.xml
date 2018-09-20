@@ -1,2 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EntityRelationships />
+<EntityRelationships>
+  <EntityRelationship Name="business_unit_new_sample" />
+  <EntityRelationship Name="lk_new_sample_createdby" />
+  <EntityRelationship Name="lk_new_sample_modifiedby" />
+  <EntityRelationship Name="owner_new_sample" />
+  <EntityRelationship Name="team_new_sample" />
+  <EntityRelationship Name="user_new_sample" />
+</EntityRelationships>
