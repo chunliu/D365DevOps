@@ -34,7 +34,7 @@
           {
             "map": "path",
             "from": "PluginAssemblies\\**\\*.*",
-            "to": "..\\..\\Plugins\\bin\\**"
+            "to": "..\\..\\MyPlugins\\bin\\**"
           },
           {
             "map": "path",

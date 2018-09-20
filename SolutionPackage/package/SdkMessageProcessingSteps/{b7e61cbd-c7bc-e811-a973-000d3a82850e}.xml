@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="new_sample PreCreate" SdkMessageProcessingStepId="{b7e61cbd-c7bc-e811-a973-000d3a82850e}">
+  <PluginTypeName>MyPlugins.SamplePreCreate, MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f</PluginTypeName>
+  <PluginTypeId>334d33be-c7bc-e811-a974-000d3a82867e</PluginTypeId>
+  <PrimaryEntity>new_sample</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <SdkMessageId>{9ebdbb1b-ea3e-db11-86a7-000a3a5473e8}</SdkMessageId>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>20</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>
