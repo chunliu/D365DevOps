@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource>
+  <WebResourceId>{7f483d3a-9bbc-e811-a971-000d3a8281d0}</WebResourceId>
+  <Name>new_/sample.html</Name>
+  <DisplayName>new_/sample.html</DisplayName>
+  <WebResourceType>1</WebResourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/new_samplehtml7F483D3A-9BBC-E811-A971-000D3A8281D0</FileName>
+</WebResource>
