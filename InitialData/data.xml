@@ -1,0 +1,47 @@
+
+<entities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" timestamp="9/24/2018 4:21:46 PM">
+  <entity name="new_sample" displayname="Sample">
+    <records>
+      <record id="d8e49f4f-c1bf-e811-a972-000d3a828c75">
+        <field name="createdby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="createdon" value="9/24/2018 6:16:03 AM" />
+        <field name="modifiedby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="modifiedon" value="9/24/2018 6:16:03 AM" />
+        <field name="new_name" value="One" />
+        <field name="ownerid" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="owningbusinessunit" value="8f46f78a-6fb8-e811-a974-000d3a804ddd" lookupentity="businessunit" />
+        <field name="owninguser" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" />
+        <field name="new_sampleid" value="d8e49f4f-c1bf-e811-a972-000d3a828c75" />
+        <field name="statecode" value="0" />
+        <field name="statuscode" value="1" />
+      </record>
+      <record id="d9e49f4f-c1bf-e811-a972-000d3a828c75">
+        <field name="createdby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="createdon" value="9/24/2018 6:16:11 AM" />
+        <field name="modifiedby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="modifiedon" value="9/24/2018 6:16:11 AM" />
+        <field name="new_name" value="Two" />
+        <field name="ownerid" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="owningbusinessunit" value="8f46f78a-6fb8-e811-a974-000d3a804ddd" lookupentity="businessunit" />
+        <field name="owninguser" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" />
+        <field name="new_sampleid" value="d9e49f4f-c1bf-e811-a972-000d3a828c75" />
+        <field name="statecode" value="0" />
+        <field name="statuscode" value="1" />
+      </record>
+      <record id="596d4d5b-c1bf-e811-a972-000d3a828c75">
+        <field name="createdby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="createdon" value="9/24/2018 6:16:22 AM" />
+        <field name="modifiedby" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="modifiedon" value="9/24/2018 6:16:22 AM" />
+        <field name="new_name" value="Three" />
+        <field name="ownerid" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" lookupentityname="Chun Liu" />
+        <field name="owningbusinessunit" value="8f46f78a-6fb8-e811-a974-000d3a804ddd" lookupentity="businessunit" />
+        <field name="owninguser" value="0eca406e-2658-462f-8b20-6df66ec52ac1" lookupentity="systemuser" />
+        <field name="new_sampleid" value="596d4d5b-c1bf-e811-a972-000d3a828c75" />
+        <field name="statecode" value="0" />
+        <field name="statuscode" value="1" />
+      </record>
+    </records>
+    <m2mrelationships />
+  </entity>
+</entities>
