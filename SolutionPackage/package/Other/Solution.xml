@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ImportExportXml version="9.0.2.2074" SolutionPackageVersion="9.0" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.0.2.2266" SolutionPackageVersion="9.0" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
     <UniqueName>D365DevOps</UniqueName>
     <LocalizedNames>
@@ -80,9 +80,16 @@
     <RootComponents>
       <RootComponent type="1" schemaName="new_sample" behavior="0" />
       <RootComponent type="61" schemaName="new_/sample.html" behavior="0" />
+      <RootComponent type="62" schemaName="new_MyApp1" behavior="0" />
+      <RootComponent type="80" schemaName="new_MyApp1" behavior="0" />
       <RootComponent type="91" id="{4169b6bb-c7bc-e811-a971-000d3a828c75}" schemaName="MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f" behavior="0" />
       <RootComponent type="92" id="{b7e61cbd-c7bc-e811-a973-000d3a82850e}" behavior="0" />
     </RootComponents>
-    <MissingDependencies />
+    <MissingDependencies>
+      <MissingDependency>
+        <Required key="0" type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)" />
+        <Dependent key="1" type="80" schemaName="new_MyApp1" displayName="MyApp1" />
+      </MissingDependency>
+    </MissingDependencies>
   </SolutionManifest>
 </ImportExportXml>
