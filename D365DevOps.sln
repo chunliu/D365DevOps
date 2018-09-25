@@ -70,6 +70,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "InitialData", "InitialData\
 		SlnRelativePath = "InitialData\"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlugin.Test", "MyPlugin.Test\MyPlugin.Test.csproj", "{AD42857D-6898-4DEE-8354-4E4A671A9B51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +98,10 @@ Global
 		{8534B890-FE03-4BA4-A2B0-B6203C0C11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8534B890-FE03-4BA4-A2B0-B6203C0C11C9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{8534B890-FE03-4BA4-A2B0-B6203C0C11C9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AD42857D-6898-4DEE-8354-4E4A671A9B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD42857D-6898-4DEE-8354-4E4A671A9B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD42857D-6898-4DEE-8354-4E4A671A9B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD42857D-6898-4DEE-8354-4E4A671A9B51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
