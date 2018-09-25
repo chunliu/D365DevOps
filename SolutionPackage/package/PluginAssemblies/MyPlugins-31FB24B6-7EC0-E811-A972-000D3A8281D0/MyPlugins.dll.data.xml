@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f" PluginAssemblyId="31fb24b6-7ec0-e811-a972-000d3a8281d0" CustomizationLevel="1">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/MyPlugins-31FB24B6-7EC0-E811-A972-000D3A8281D0/MyPlugins.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="MyPlugins.FollowupPlugin, MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f" PluginTypeId="ad486fb7-7ec0-e811-a984-000d3a828e6c" Name="MyPlugins.FollowupPlugin">
+      <FriendlyName>MyPlugins.FollowupPlugin</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="MyPlugins.SamplePreCreate, MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f" PluginTypeId="ae486fb7-7ec0-e811-a984-000d3a828e6c" Name="MyPlugins.SamplePreCreate">
+      <FriendlyName>MyPlugins.SamplePreCreate</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>

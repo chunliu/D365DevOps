@@ -64,6 +64,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FollowupPlugin.cs" />
     <Compile Include="SamplePreCreate.cs" />
     <Compile Include="CrmPluginRegistrationAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

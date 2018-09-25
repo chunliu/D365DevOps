@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SdkMessageProcessingStep Name="new_sample PreCreate" SdkMessageProcessingStepId="{b7e61cbd-c7bc-e811-a973-000d3a82850e}">
+<SdkMessageProcessingStep Name="new_sample PreCreate" SdkMessageProcessingStepId="{35fb24b6-7ec0-e811-a972-000d3a8281d0}">
   <PluginTypeName>MyPlugins.SamplePreCreate, MyPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dce9a4593096105f</PluginTypeName>
-  <PluginTypeId>334d33be-c7bc-e811-a974-000d3a82867e</PluginTypeId>
+  <PluginTypeId>ae486fb7-7ec0-e811-a984-000d3a828e6c</PluginTypeId>
   <PrimaryEntity>new_sample</PrimaryEntity>
   <AsyncAutoDelete>0</AsyncAutoDelete>
   <FilteringAttributes></FilteringAttributes>
