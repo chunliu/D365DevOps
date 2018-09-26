@@ -12,6 +12,7 @@
         <row name="result" id="new_sampleid">
           <cell name="new_name" width="300" />
           <cell name="createdon" width="125" />
+          <cell name="createdby" width="100" />
         </row>
       </grid>
     </layoutxml>
@@ -19,13 +20,14 @@
     <fetchxml>
       <fetch version="1.0" mapping="logical">
         <entity name="new_sample">
-          <attribute name="new_sampleid" />
           <attribute name="new_name" />
           <attribute name="createdon" />
           <order attribute="new_name" descending="false" />
           <filter type="and">
             <condition attribute="statecode" operator="eq" value="0" />
           </filter>
+          <attribute name="createdby" />
+          <attribute name="new_sampleid" />
         </entity>
       </fetch>
     </fetchxml>

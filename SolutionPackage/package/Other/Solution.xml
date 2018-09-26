@@ -79,6 +79,7 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="1" schemaName="new_sample" behavior="0" />
+      <RootComponent type="60" id="{6345b7e5-e10e-4cc3-b94a-a0ad79bd9d5d}" behavior="0" />
       <RootComponent type="61" schemaName="new_/sample.html" behavior="0" />
       <RootComponent type="62" schemaName="new_MyApp1" behavior="0" />
       <RootComponent type="80" schemaName="new_MyApp1" behavior="0" />
